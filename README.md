@@ -1,4 +1,2 @@
 # Perceptron-Heros
-Comp9444 - cv project
-
-Introduction
+American Sign Language Detection Using Mediapipe and LSTM Recurrent Neural Net.
